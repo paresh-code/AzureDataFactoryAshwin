@@ -1,0 +1,15 @@
+{
+	"name": "tt-healthcare-adf-practice2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ef4b7e5d-dac1-45ae-9ad7-3a797c4fd2a3",
+		"tenantId": "4e4dbb85-0375-4f93-bbf7-52ab8133d469"
+	}
+}
